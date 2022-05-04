@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+ <ul>
+   <li>Nguyễn Văn A</li>
+    <li>24 Dạ Lê Thừa thiên huế </li>
+    <li>Số điện thoại:03261927727</li>
+<li>Email:duynguyen222@gmail.com</li>
+<li><img src="https://i.pinimg.com/236x/b6/bb/1f/b6bb1f98d48a1402a1b33c6a6da0c276.jpg" alt=""></li>
+<li>Học vấn: Tốt nghiệp cấp 3</li>
+<li>Bằng cấp: THCS,THPT</li>
+<Li>Kỹ năng: cơ bản</Li>
+<li>Kinh Nghiệm: Không </li>
+<li>Định Hướng: Lập trình viên</li>
+ </ul>
+</body>
+</html>
