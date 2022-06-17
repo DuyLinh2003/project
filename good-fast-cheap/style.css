@@ -39,5 +39,6 @@ body{
     left: -5px;
   }
   .check:checked::before{
-    background-color: #44750b #ddd;
+    background-color: #44750b ;
   }
+  

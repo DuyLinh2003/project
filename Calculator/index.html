@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tbody >
+            <tr>
+                <td colspan="4" >                   
+                    <input type="text" id="result">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button onclick="enterNumber(1)">1</button>
+                </td>
+                <td>
+                    <button onclick="enterNumber(2)">2</button>
+                </td>
+                <td>
+                    <button onclick="enterNumber(3)">3</button>
+                </td>
+                <td>
+                    <button onclick="enterOperator('+')">+</button>
+                </td>
+            </tr>
+            <tr>
+                <td>                    
+                    <button onclick="enterNumber(4)">4</button>
+                </td> 
+                <td>                    
+                    <button onclick="enterNumber(5)">5</button>
+                </td> 
+                <td>                    
+                    <button onclick="enterNumber(6)">6</button>
+                </td> 
+                <td>
+                    <button onclick="enterOperator('-')">-</button>
+                </td>
+            </tr>
+            <tr>
+                <td>                    
+                    <button onclick="enterNumber(7)">7</button>
+                </td> 
+                <td>                    
+                    <button onclick="enterNumber(8)">8</button>
+                </td> 
+                <td>                    
+                    <button onclick="enterNumber(9)">9</button>
+                </td> 
+                <td>
+                    <button onclick="enterOperator('x')">x</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button onclick="enterOperator('C')">C</button>
+                </td>
+                <td>
+                    <button onclick="enterNumber(0)">0</button>
+                </td>
+                <td>
+                    <button onclick="enterOperator('=')">=</button>
+                </td>
+                <td>
+                    <button onclick="enterOperator(':')">:</button>
+                </td>
+                
+            </tr>
+        </tbody>
+    </table>
+    <script src="Calculator.js"></script>
+</body>
+</html>
